@@ -1,0 +1,8 @@
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\bin\Debug\SortingByChoice.exe.config
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\bin\Debug\SortingByChoice.exe
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\bin\Debug\SortingByChoice.pdb
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\obj\Debug\SortingByChoice.csproj.AssemblyReference.cache
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\obj\Debug\SortingByChoice.csproj.SuggestedBindingRedirects.cache
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\obj\Debug\SortingByChoice.csproj.CoreCompileInputs.cache
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\obj\Debug\SortingByChoice.exe
+F:\Ilya\Programming\SortingByChoice\SortingByChoice\obj\Debug\SortingByChoice.pdb
